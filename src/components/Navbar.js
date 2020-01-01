@@ -9,7 +9,7 @@ class Navbar extends React.Component {
         <nav className='blue darken-3'>
           <div className='nav-wrapper'>
             <Link to='/' className='brand-logo center'>
-              Meetupz
+              Meetupzz
             </Link>
             <Link to='/'
               data-target='main-menu'
